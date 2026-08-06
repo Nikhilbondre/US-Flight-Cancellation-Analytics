@@ -16,10 +16,6 @@ airline rankings, and airport-level performance.
   Delay minutes by cause (Carrier, Weather, NAS, Late Aircraft, Security), 
   Cancellation status, Distance
 
-Files in this repo:
-- `data/raw_flights.csv` — original unprocessed data
-- `data/cleaned_flights.csv` — cleaned dataset used in the model
-
 ## Tools Used
 - **Power BI Desktop** — data modeling, DAX, visualization
 - **Power Query** — data cleaning and transformation
