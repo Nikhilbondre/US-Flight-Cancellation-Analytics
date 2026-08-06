@@ -49,3 +49,22 @@ Delay per Flight = DIVIDE( [Total Delay Minutes], [Total Flights])
 
 Total Delay Minutes = SUM(Flights[CarrierDelay]) + SUM(Flights[WeatherDelay]) + SUM(Flights[NASDelay]) + SUM(Flights[LateAircraftDelay]) + 
 SUM(Flights[SecurityDelay])
+```
+
+**Page 1. Overview**
+
+KPI summary (total flights, on-time %, avg delay, cancellation rate) with year-over-year trend lines for delay and cancellation rate.
+
+2. Delay Causes
+
+Breakdown of total delay minutes by cause (carrier, weather, NAS, late aircraft, security) per year, plus a share-of-total-delay donut chart and a delay-per-flight trend line.
+
+3. Carrier Scorecard
+
+Airline-level performance table and on-time % ranking, highlighting the worst-performing carriers on both delay and on-time rate.
+
+4. Airport Performance
+
+Origin airport delay and traffic volume analysis, highlight the worst-performing major airport.
+
+
