@@ -63,3 +63,13 @@ Airline-level performance table and on-time % ranking, highlighting the worst-pe
 
 Origin airport delay and traffic volume analysis, highlight the worst-performing major airport.
 
+
+ - 2023 average arrival delay (9.5 min) is nearly 2x pre-pandemic 2019 levels (5.3 min)
+
+ - 2020 shows an unusual dip to -4.9 min avg delay, likely due to reduced air traffic congestion during COVID-19
+
+ - 74% of delays come from controllable factors (carrier, late aircraft) vs. only 6% from weather
+
+ - Frontier, JetBlue, and Allegiant rank worst on both on-time % (74-76%) and avg delay (11-13 min)
+
+ - MIA has the highest average delay (9.34 min) among airports with meaningful traffic volume - well above the 4.24 min average
